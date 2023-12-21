@@ -24,3 +24,6 @@ To provide education to the public in choosing precious metals as an investment 
 MISSION
 
 To provide the best service and convenience to customers both online and offline for buying and selling transactions at competitive prices and with adequate stock availability. To provide education and beneficial programs for the wider community.
+
+
+There is no deobfuscation file associated with this App Bundle. If you use obfuscated code (R8/proguard), uploading a deobfuscation file will make crashes and ANRs easier to analyze and debug. Using R8/proguard can help reduce app size. 
