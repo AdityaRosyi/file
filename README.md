@@ -12,6 +12,9 @@ SHA1: A7:FC:98:4F:4A:7F:CA:BD:80:B2:07:30:45:6E:91:44:E1:05:6C:B7
 https://www.termsfeed.com/live/f7a8b923-da9c-4cf4-a78a-b40314b2e283
 
 
+PT. GOLDENMULIA ABADI PERSADA, a seller of gift gold
+
+
 PT. GOLDENMULIA ABADI PERSADA was established on March 12, 2021. It began with online sales through marketplaces and Cash on Delivery (COD) starting in June 2020. Due to high customer satisfaction and trust, as well as the greater prospects and potential for further development, our company was founded.
 
 VISION
